@@ -29,6 +29,8 @@ None
 == Screenshots ==
 
 1. The date in j F Y format in Arabic.
+2. Example of date on Twenty Fourteen theme without the plugin.
+3. Example of date on Twenty Fourteen theme with the plugin.
 
 == Changelog ==
 
