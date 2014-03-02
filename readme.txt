@@ -32,8 +32,12 @@ None
 
 == Changelog ==
 
+= 0.16 =
+* Added filter to get_the_date in addition to the get_the_time filter.
+
 = 0.15 =
 * Initial public release.
+
 
 == Upgrade Notice ==
 Nothing
