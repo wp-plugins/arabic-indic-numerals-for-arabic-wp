@@ -11,11 +11,11 @@ Replaces "English" numbers with "Arabic" numbers in the Wordpress post date.
 
 == Description ==
 
+هذه الاضافة تستبدل الأرقام العربية بأرقام هندية في تواريخ ووردبريس المعرّب.
+
 This simple code replaces Arabic numerals (a.k.a. Hindu-Arabic numerals or Indo-Arabic numerals) with Eastern Arabic numerals (a.k.a. Arabic–Indic numerals or Arabic Eastern numerals) in the date of posts or comments on WordPress. The Arabic version of WordPress changes the month names but leaves the numbers unchanged.
 
 For the sake of simplicity I’m calling them “English” numbers and “Arabic” numbers.
-
-هذه الاضافة تستبدل الأرقام العربية بأرقام هندية في تواريخ ووردبريس المعرّب.
 
 == Installation ==
 
