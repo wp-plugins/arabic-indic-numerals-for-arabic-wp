@@ -1,6 +1,6 @@
 === Arabic-Indic Numerals for Arabic Wordpress ===
 Contributors: jvarn13
-Tags: arabic, numbers, numerals
+Tags: arabic, numbers, numerals, أرقام، عربية، هندية
 Requires at least: 1.5
 Tested up to: 3.8.1
 Stable tag: trunk
