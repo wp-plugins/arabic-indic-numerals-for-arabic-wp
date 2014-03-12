@@ -15,6 +15,7 @@ This simple code replaces Arabic numerals (a.k.a. Hindu-Arabic numerals or Indo-
 
 For the sake of simplicity I’m calling them “English” numbers and “Arabic” numbers.
 
+هذه الاضافة تستبدل الأرقام العربية بأرقام هندية في تواريخ ووردبريس المعرّب.
 
 == Installation ==
 
