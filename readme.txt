@@ -25,7 +25,11 @@ For the sake of simplicity I’m calling them “English” numbers and “Arabi
 
 
 == Frequently Asked Questions ==
-None
+= Does this plugin translate the names of months into Arabic? =
+No, you will need to install the Arabic version of Wordpress.
+
+= Will all the dates be written in Arabic-Indic numbers? =
+No, the dates will only be modified on parts of your site where the blog language is set to Arabic.
 
 == Screenshots ==
 
